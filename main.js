@@ -4,4 +4,4 @@
 
 console.log("hello world")
 // TODO: yes it works!!
-// TODO: we should have a new issue
+// TODO: we have a new issue
